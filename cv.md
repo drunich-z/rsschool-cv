@@ -6,7 +6,7 @@
 * phone: +79631882983
 
 ## Profile
-Engineer with over 15 years IT industry experience. Highly motivated for career change goal. Generaly interested in full stack development. The main priority for the current six months is to get the most of experience and knowledge on the JS/Front-end 2021 course of RS School and to find a vacancy after. Ability to solve problems faced for the first time, possible to quick understand new technologies and provide the optimal solution.
+Engineer with over 15 years IT industry experience. Highly motivated for career change goal. Generaly interested in full stack development. The main priority for the current six months is to get the most of experience and knowledge on the JS/Front-end 2021 course of RS School and to get a job offer after. Ability to solve problems faced for the first time, possible to quick understand new technologies and provide the optimal solution.
 
 ## Skills
 * fundamentals of object-oriented programming (university program)
